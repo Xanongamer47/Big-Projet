@@ -1,4 +1,4 @@
-<?php require ('../SVHCBP/model/Public/contact.html');?>
+<?php require ('../SVHCBP/Views/contact.html');?>
 <?php
    require('controller/frontend.php');
 

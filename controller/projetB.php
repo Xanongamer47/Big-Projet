@@ -1,2 +1,2 @@
 <?php
-    require('Views/view.php');
+    require('Views/index.html');

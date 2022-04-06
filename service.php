@@ -1,2 +1,2 @@
-<?php require ('../SVHCBP/model/Public/service.html'); ?>
+<?php require ('../SVHCBP/Views/service.html'); ?>
 <?php ?>

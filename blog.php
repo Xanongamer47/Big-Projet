@@ -1,1 +1,1 @@
-<?php require ('../SVHCBP/model/Public/blog.html');?>
+<?php require ('../SVHCBP/Views/blog.html');?>
